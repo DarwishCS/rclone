@@ -1862,7 +1862,7 @@ then select "OAuth client ID".
    If you chose "Internal" you don't need to publish and can skip straight to
    Step 11 but your destination drive must be part of the same Google Workspace.)
 
-10. Go to "Oauth consent screen" and then click "PUBLISH APP" button and confirm.
+10. Go to "Oauth consent screen" , "Audience" and then click "PUBLISH APP" button and confirm.
    You will also want to add yourself as a test user.
 
 11. Provide the noted client ID and client secret to rclone.
